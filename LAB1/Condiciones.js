@@ -19,3 +19,4 @@ if (b > c) {
 
 // Imprimimos los elementos
 console.log(a, b, c); // Output: 2 3 4
+console.log("Juan Agustin Apaza Guzman")

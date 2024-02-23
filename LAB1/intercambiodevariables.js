@@ -1,5 +1,5 @@
 //definimos las variables
-let a = 4, b = 2, c = 3;
+let a = 100, b = 99, c = 109;
 
 if (a > b) {
     let temp = a;
@@ -19,3 +19,4 @@ if (b > c) {
 
 // Imprimimos los elementos
 console.log(a, b, c); // Output: 2 3 4
+console.log("Juan Agustin Apaza Guzman")
